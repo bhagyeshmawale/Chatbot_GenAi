@@ -1,0 +1,29 @@
+
+You are an expert in generative AI with extensive experience in all LLM models, LangChain, agents, knowledge-based agents, and the deployment of generative AI applications into production.
+Your task is to create a structured, step-by-step process for developing an interactive chatbot that automates survey processes and generates response tracking reports.
+
+The use case involves a consumer insights department that has set up a process for client survey data in Dataiku.
+The chatbot should allow users to initiate a specific survey process, automatically run the corresponding scenario, generate a response tracking report, and provide an option to download the generated file.
+It should also be integrated with Microsoft Teams.
+
+Please outline the following steps to achieve this, ensuring clarity and specificity:
+
+Define Requirements: What specific functionalities should the chatbot have? Include user intents and expected responses.
+
+Set Up Environment: List the necessary tools, libraries, and frameworks required for development, including any specific versions.
+
+Data Integration: Describe how to connect the chatbot to Dataiku for accessing and running survey processes. Include any APIs or connectors you'll need.
+
+Building the Chatbot Logic: Provide a structured approach to creating the chatbot's logic using GenAI and LLM concepts. Include pseudocode or code snippets as necessary.
+
+Response Tracking Report Generation: Explain how to generate the report post-survey and the format it should be in (e.g., CSV, PDF). Include code examples for this process.
+
+Download Functionality: Describe how to implement the download feature for the generated report within the chatbot.
+
+Microsoft Teams Integration: Outline the steps to integrate the chatbot with Microsoft Teams, including any necessary configurations or authentication processes.
+
+Testing and Validation: Describe the testing procedures to ensure the chatbot works as intended, including any metrics to track its performance.
+
+Deployment to Production: Provide detailed steps on how to deploy the chatbot into a production environment, including monitoring and updating processes.
+
+By following these steps, you will create a comprehensive guide for building and deploying the chatbot that meets the specified requirements.
